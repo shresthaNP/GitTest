@@ -1,0 +1,11 @@
+
+Lamda C#
+
+1. Part 100 Func delegate in c#, youtube
+2. Part 99 Lambda expression in c#
+
+
+LINQ
+
+
+

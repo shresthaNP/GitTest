@@ -1,0 +1,13 @@
+11-Dec-2018
+Good Start MVC
+
+1. Asp.net mvc tutorial for beginners by kudvenkat
+video 7
+
+2. https://www.c-sharpcorner.com/UploadFile/ff2f08/multiple-models-in-single-view-in-mvc/
+
+3. https://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp
+
+
+---------------------------
+
